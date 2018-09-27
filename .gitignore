@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.idea
+.vscode
+
+*.log
+
+venv
+.env
+timeMachine\server\static\css\
